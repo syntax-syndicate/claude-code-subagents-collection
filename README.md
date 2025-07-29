@@ -80,8 +80,8 @@ cp claude-code-subagents-collection/*.md ~/.claude/agents/
 
 1. **Clone this repository:**
    ```bash
-   git clone https://github.com/yourusername/claude-code-subagents.git
-   cd claude-code-subagents
+   git clone https://github.com/davepoon/claude-code-subagents-collection.git
+   cd claude-code-subagents-collection
    ```
 
 2. **Copy subagents to Claude Code's directory:**
